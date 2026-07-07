@@ -96,3 +96,10 @@ Contributions, suggestions, and improvements are always welcome. Feel free to fo
 ##  License
 
 This project is created for learning and educational purposes.
+
+## Author 
+
+### Gurkirat Singh Bains
+
+-Aspiring Data Analyst & Machine Learning Enthusiast
+-Passionate about Data Analytics, Power BI, Excel, SQL, and Python
