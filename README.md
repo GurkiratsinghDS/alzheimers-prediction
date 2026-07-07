@@ -2,7 +2,7 @@
 
 A machine learning project that predicts the likelihood of Alzheimer's disease using patient data. This notebook walks through the complete data science workflow, from data preprocessing and exploratory data analysis (EDA) to model training and evaluation.
 
-##  Project Overview
+##  Project Overview-
 
 The goal of this project is to build a predictive model that can identify potential Alzheimer's cases based on various patient-related features. The notebook demonstrates how to clean the data, explore patterns, train different machine learning models, and evaluate their performance.
 
@@ -96,3 +96,10 @@ Contributions, suggestions, and improvements are always welcome. Feel free to fo
 ##  License
 
 This project is created for learning and educational purposes.
+
+## Author 
+
+### Gurkirat Singh Bains
+
+-Aspiring Data Analyst & Machine Learning Enthusiast
+-Passionate about Data Analytics, Power BI, Excel, SQL, and Python
