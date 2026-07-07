@@ -1,4 +1,3 @@
-# alzheimers-prediction
 # Alzheimer's Disease Prediction
 
 A machine learning project that predicts the likelihood of Alzheimer's disease using patient data. This notebook walks through the complete data science workflow, from data preprocessing and exploratory data analysis (EDA) to model training and evaluation.
